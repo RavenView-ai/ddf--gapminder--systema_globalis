@@ -28,6 +28,7 @@ include:
     - countries/recipe_whotb.yaml
     - countries/recipe_unesco_edu.yaml
     - countries/recipe_em_dat.yaml
+    - countries/recipe_billionaire.yaml
 
 ingredients:
     - id: gw-ontology-concepts-all
@@ -222,4 +223,5 @@ cooking:
         - unesco-datapoints-final
         - static-assets-datapoints
         - em_dat-datapoints
+        - billionaire-datapoints-final
       result: datapoints-final
